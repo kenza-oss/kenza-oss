@@ -36,3 +36,16 @@ AWS Solutions Architect / Cisco CCNA / Azure AZ-900 / CEH
 ---
 
 Connect: [LinkedIn](https://www.linkedin.com/in/kenza-mahleb/) | [Portfolio](https://portfolio-kenza.onrender.com/)
+
+
+## GitHub Stats & Activity
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=kenza-oss&show_icons=true&theme=radical" alt="kenza-oss GitHub stats" />
+</p>p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenza-oss&layout=compact&theme=radical" alt="Top Langs" />
+</p>p>
+
+---
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/kenza-mahleb/)*
