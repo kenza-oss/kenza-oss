@@ -10,6 +10,11 @@
 
 ---
 
+## 📈 Activity Graph
+![Kenza's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kenza-oss&theme=react-dark&area=true&hide_border=true)
+
+---
+
 ## 👨‍💻 À propos de moi
 Passionnée par l'ingénierie des systèmes et des réseaux, je me spécialise dans la création d'infrastructures numériques résilientes, sécurisées et performantes. Mon expertise couvre le cycle complet DevOps, de l'automatisation Ansible à la sécurisation des réseaux critiques.
 
