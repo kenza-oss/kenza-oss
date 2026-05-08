@@ -5,6 +5,11 @@
 
 ---
 
+## 🏆 Mes Trophées GitHub
+[![Trophies](https://github-profile-trophy.vercel.app/?username=kenza-oss&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🛠️ Mon Tech Stack
 
 ### Frontend
@@ -40,4 +45,4 @@
 
 ## 📫 Me contacter
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenza-oss)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenza@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email@exemple.com)
