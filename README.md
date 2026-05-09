@@ -1,5 +1,5 @@
-# Hi there, I'm Kenza
-### Senior System & Network Engineer | Full-Stack Developer | Cloud Architect
+# Hi there, I'm Kenza 💻 
+### Senior System & Network Engineer | Full-Stack Developer | Cloud Architect 💼 
 
 I am a highly skilled Senior Engineer with expertise in designing, securing, and maintaining robust IT infrastructures. My dual background in Systems & Networks and Full-Stack Development allows me to bridge the gap between infrastructure and software, delivering high-performance, scalable, and secure solutions.
 
