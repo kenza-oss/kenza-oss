@@ -1,7 +1,7 @@
 # Kenza Mahleb | Senior System & Network Engineer
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kenza-oss&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kenza-oss&title_color=FFD700&text_color=A9A9A9&bg_color=000000&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 ### 👨‍💻 Profil Professionnel
@@ -59,11 +59,11 @@ En tant que **Senior System & Network Engineer** et développeur Full-Stack, je 
 ### 📈 Statistiques & Activité
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenza-oss&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenza-oss&bg_color=000000&color=A9A9A9&line=FFD700&point=FFFFFF&area_color=000000&title_color=FFD700&hide_border=true" alt="Activity Graph" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenza-oss&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenza-oss&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kenza-oss&show_icons=true&bg_color=000000&title_color=FFD700&text_color=A9A9A9&icon_color=FFD700&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenza-oss&layout=compact&bg_color=000000&title_color=FFD700&text_color=A9A9A9&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
