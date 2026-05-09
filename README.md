@@ -1,7 +1,7 @@
 # Kenza Mahleb | Senior System & Network Engineer
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kenza-oss&theme=flat&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kenza-oss&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 ### 👨‍💻 Profil Professionnel
